@@ -1,0 +1,13 @@
+Wheeler Portable Batch System Prologue
+Job Id: 300841.wheeler-sn.alliance.unm.edu
+Username: hsun1991
+Job 300841.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler027 
+
+prologue running on host: wheeler027
+total time used FOR CPU INTENSIVE  is 36.966398 thread:
+threads total time used is 23.843320
+io6:
+total time used FOR CPU INTENSIVE  is 14.505271 thread
+threads total time used is 10.886291
+Wheeler Portable Batch System Epilogue

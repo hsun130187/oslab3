@@ -14,7 +14,7 @@ void readf(){
 void writef(){
 	FILE *fpWrite=fopen("test.txt","w");
 	int i=0;
-	for(i=0;i<50;i++){
+	for(i=0;i<100;i++){
 		char message[]="this is a test!\n";
 	    fputs(message,fpWrite);
 	}
@@ -26,20 +26,20 @@ int main(){
 	int i;
 	double seconds=-0.1;
 	seconds = -wall_time();
-	for(i=0;i<5000;i++){
+	for(i=0;i<10000;i++){
 		writef();
 	    readf();	
 	}
 	//seconds += wall_time();
 	//printf("total time used FOR IO is %lf ", seconds);
 	//seconds = -wall_time();
-	for(int i=0;i<300;i++){
+	for(i=0;i<30000;i++){
 		for(int j=0;j<100000;j++){
 			
 		}
 	}
 	seconds += wall_time();
-	printf("total time used FOR CPU INTENSIVE  is %lf ", seconds);
+	printf("total time used FOR non-thread  is %lf\n ", seconds);
 	return 0; 
 } 
 

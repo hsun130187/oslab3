@@ -1,0 +1,45 @@
+Wheeler Portable Batch System Prologue
+Job Id: 300842.wheeler-sn.alliance.unm.edu
+Username: hsun1991
+Job 300842.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler027 
+
+prologue running on host: wheeler027
+
+Inactive Modules:
+  1) gsl-2.3-gcc-7.1.0-oqydlph
+
+
+Activating Modules:
+  1) gsl-2.3-gcc-7.1.0-oqydlph
+
+total time used FOR non-thread  is 10.890310
+ threads total time used is 11.000840
+2th
+total time used FOR non-thread  is 11.421819
+ threads total time used is 10.587043
+3th
+threads total time used is 11.061099
+total time used FOR non-thread  is 11.145747
+ 4th
+total time used FOR non-thread  is 10.947170
+ threads total time used is 11.237830
+5th
+threads total time used is 11.413720
+total time used FOR non-thread  is 11.867334
+ 6th
+total time used FOR non-thread  is 11.810536
+ threads total time used is 12.210178
+7th
+threads total time used is 12.283299
+total time used FOR non-thread  is 12.436530
+ 8th
+total time used FOR non-thread  is 13.479895
+ threads total time used is 12.012356
+9 th
+total time used FOR non-thread  is 12.098996
+ threads total time used is 12.445512
+10th
+threads total time used is 12.203674
+total time used FOR non-thread  is 12.297138
+ Wheeler Portable Batch System Epilogue

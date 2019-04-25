@@ -3,7 +3,7 @@
 #include<sys/time.h>
 void * myfunc(void * arg){
 	int i,j;
-	for(i=0;i<300;i++){
+	for(i=0;i<30000;i++){
 		for(j=0;j<100000;j++){
 
 		}
@@ -24,7 +24,7 @@ void readf(){
 void writef(){
 	FILE *fpWrite=fopen("test.txt","w");
 	int i=0;
-	for(i=0;i<50;i++){
+	for(i=0;i<100;i++){
 		char message[]="this is a test!\n";
 	    fputs(message,fpWrite);
 	}
@@ -36,10 +36,10 @@ int main(){
 	pthread_t pthid;
 	double seconds=-0.1;
 	int count;
-        seconds = -wall_time();
+        //seconds = -wall_time();
 	pthread_create(&pthid, NULL, myfunc, NULL);
-	
-	for(count=0;count<5000;count++){
+	 seconds = -wall_time();
+	for(count=0;count<10000;count++){
 		writef();
 	    readf();	
 	}
