@@ -1,0 +1,91 @@
+
+echo 1th
+./io6
+./pthread
+echo 2th
+./pthread
+./io6
+echo 3th
+./io6
+./pthread
+echo 4th
+./pthread
+./io6
+echo 5th
+./pthread
+./io6
+echo 6th
+./pthread
+./io6
+echo 7th
+./pthread
+./io6
+echo 8th
+./io6
+./pthread
+echo 9th
+./io6
+./pthread
+echo 10th
+./io6
+./pthread
+echo 11th
+./io6
+./pthread
+echo 12th
+./io6
+./pthread
+echo 13th
+./io6
+./pthread
+echo 14th
+./io6
+./pthread
+echo 15th
+./io6
+./pthread
+echo 16th
+./io6
+./pthread
+echo 17th
+./pthread
+./io6
+echo 18th
+./pthread
+./io6
+echo 19th
+./pthread
+./io6
+echo 20th
+./io6
+./pthread
+echo 21th
+./io6
+./pthread
+echo 22th
+./io6
+./pthread
+echo 23th
+./pthread
+./io6
+echo 24th
+./io6
+./pthread
+echo 25th
+./pthread
+./io6
+echo 26th
+./pthread
+./io6
+echo 27th
+./pthread
+./io6
+echo 28th
+./io6
+./pthread
+echo 29th
+./pthread
+./io6
+echo 30th
+./io6
+./pthread
