@@ -1,0 +1,20 @@
+Wheeler Portable Batch System Prologue
+Job Id: 299922.wheeler-sn.alliance.unm.edu
+Username: hsun1991
+Job 299922.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler289 
+
+prologue running on host: wheeler289
+wheeler289: mount.nfs: /opt is busy or already mounted
+
+Inactive Modules:
+  1) gsl-2.3-gcc-7.1.0-oqydlph
+
+
+Activating Modules:
+  1) gsl-2.3-gcc-7.1.0-oqydlph
+
+total time used FOR CPU INTENSIVE  is 12.931320 thread:
+threads total time used is 11.368990
+Wheeler Portable Batch System Epilogue
+wheeler289: mount.nfs: /opt is busy or already mounted
