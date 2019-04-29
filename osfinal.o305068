@@ -1,0 +1,149 @@
+Wheeler Portable Batch System Prologue
+Job Id: 305068.wheeler-sn.alliance.unm.edu
+Username: hsun1991
+Job 305068.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler300 
+
+prologue running on host: wheeler300
+Lmod has detected the following error: The following module(s) are unknown:
+"gnu8/8.2.0"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore-cache load "gnu8/8.2.0"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+1th
+total time used FOR non-thread  is 29.276555
+ threads total time used is 23.307507
+2th
+threads total time used is 23.074668
+total time used FOR non-thread  is 30.209278
+ 3th
+total time used FOR non-thread  is 30.350680
+ threads total time used is 23.344334
+4th
+threads total time used is 23.145816
+total time used FOR non-thread  is 30.334708
+ 5th
+threads total time used is 23.092794
+total time used FOR non-thread  is 30.514122
+ 6th
+threads total time used is 23.323734
+total time used FOR non-thread  is 32.175640
+ 7th
+threads total time used is 22.595612
+total time used FOR non-thread  is 30.670137
+ 8th
+total time used FOR non-thread  is 30.631205
+ threads total time used is 24.860088
+9th
+total time used FOR non-thread  is 32.438966
+ threads total time used is 25.190417
+10th
+total time used FOR non-thread  is 32.106688
+ threads total time used is 24.882034
+11th
+total time used FOR non-thread  is 31.595588
+ threads total time used is 25.261332
+12th
+total time used FOR non-thread  is 44.130150
+ threads total time used is 87.053873
+13th
+total time used FOR non-thread  is 31.598891
+ threads total time used is 25.070231
+14th
+total time used FOR non-thread  is 31.942812
+ threads total time used is 24.885771
+15th
+total time used FOR non-thread  is 32.273176
+ threads total time used is 25.166272
+16th
+total time used FOR non-thread  is 32.448047
+ threads total time used is 25.302864
+17th
+threads total time used is 25.101493
+total time used FOR non-thread  is 32.063051
+ 18th
+threads total time used is 25.337376
+total time used FOR non-thread  is 31.670271
+ 19th
+threads total time used is 25.285786
+total time used FOR non-thread  is 32.326531
+ 20th
+total time used FOR non-thread  is 32.113701
+ threads total time used is 25.051104
+21th
+total time used FOR non-thread  is 31.863764
+ threads total time used is 25.056213
+22th
+total time used FOR non-thread  is 32.133761
+ threads total time used is 25.130343
+23th
+threads total time used is 25.012842
+total time used FOR non-thread  is 31.773544
+ 24th
+total time used FOR non-thread  is 31.966898
+ threads total time used is 25.133840
+25th
+threads total time used is 25.174891
+total time used FOR non-thread  is 32.972436
+ 26th
+threads total time used is 25.658913
+total time used FOR non-thread  is 32.819824
+ 27th
+threads total time used is 25.340868
+total time used FOR non-thread  is 32.292547
+ 28th
+total time used FOR non-thread  is 32.277543
+ threads total time used is 44.462368
+29th
+threads total time used is 78.568133
+total time used FOR non-thread  is 31.953402
+ 30th
+total time used FOR non-thread  is 32.459081
+ threads total time used is 25.279821
+31th
+threads total time used is 25.679942
+total time used FOR non-thread  is 32.367544
+ 32th
+total time used FOR non-thread  is 31.670457
+ threads total time used is 24.754026
+33th
+total time used FOR non-thread  is 32.932348
+ threads total time used is 25.699653
+34th
+total time used FOR non-thread  is 32.104072
+ threads total time used is 24.818229
+35th
+total time used FOR non-thread  is 32.544557
+ threads total time used is 25.325801
+36th
+total time used FOR non-thread  is 32.211503
+ threads total time used is 24.199018
+37th
+total time used FOR non-thread  is 31.562351
+ threads total time used is 25.653728
+38th
+total time used FOR non-thread  is 32.491730
+ threads total time used is 25.583245
+39th
+total time used FOR non-thread  is 32.747497
+ threads total time used is 26.118351
+40th
+total time used FOR non-thread  is 33.007428
+ threads total time used is 26.055458
+41th
+threads total time used is 25.798117
+total time used FOR non-thread  is 31.933473
+ 42th
+threads total time used is 25.696624
+total time used FOR non-thread  is 33.093823
+ 43th
+threads total time used is 25.623295
+total time used FOR non-thread  is 32.703015
+ Wheeler Portable Batch System Epilogue

@@ -1,7 +1,7 @@
 #!/bin/bash
 #PBS -l nodes=1:ppn=8
-#PBS -l walltime=00:30:00
-#PBS -N test1-hui
+#PBS -l walltime=01:30:00
+#PBS -N osfinal
 #PBS -j oe
 #PBS -m bae
 #PBS -M hsun1991@unm.edu
@@ -13,12 +13,135 @@ module load anaconda
 
 module load gsl-2.3-gcc-7.1.0-oqydlph
 module load gnu8/8.2.0
+echo 1th
 ./io6
-
 ./pthread
 echo 2th
+./pthread
+./io6
+echo 3th
+./io6
+./pthread
+echo 4th
+./pthread
+./io6
+echo 5th
+./pthread
+./io6
+echo 6th
+./pthread
+./io6
+echo 7th
+./pthread
+./io6
+echo 8th
+./io6
+./pthread
+echo 9th
+./io6
+./pthread
+echo 10th
+./io6
+./pthread
+echo 11th
+./io6
+./pthread
+echo 12th
+./io6
+./pthread
+echo 13th
+./io6
+./pthread
+echo 14th
+./io6
+./pthread
+echo 15th
+./io6
+./pthread
+echo 16th
+./io6
+./pthread
+echo 17th
+./pthread
+./io6
+echo 18th
+./pthread
+./io6
+echo 19th
+./pthread
+./io6
+echo 20th
+./io6
+./pthread
+echo 21th
+./io6
+./pthread
+echo 22th
+./io6
+./pthread
+echo 23th
+./pthread
+./io6
+echo 24th
+./io6
+./pthread
+echo 25th
+./pthread
+./io6
+echo 26th
+./pthread
+./io6
+echo 27th
+./pthread
+./io6
+echo 28th
+./io6
+./pthread
+echo 29th
+./pthread
+./io6
+echo 30th
+./io6
+./pthread 
+echo 31th
+./pthread
+./io6
+echo 32th
+./io6
+./pthread
+echo 33th
+./io6
+./pthread
+echo 34th
+./io6
+./pthread
+echo 35th
+./io6
+./pthread
+echo 36th
+./io6
+./pthread
+echo 37th
+./io6
+./pthread
+echo 38th
+./io6
+./pthread
+echo 39th
+./io6
+./pthread
+echo 40th
+./io6
+./pthread
+echo 41th
+./pthread
+./io6
+echo 42th
+./pthread
+./io6
+echo 43th
+./pthread
 ./io6
 
-./pthread
 
 

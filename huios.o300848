@@ -1,0 +1,105 @@
+Wheeler Portable Batch System Prologue
+Job Id: 300848.wheeler-sn.alliance.unm.edu
+Username: hsun1991
+Job 300848.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler291 
+
+prologue running on host: wheeler291
+
+Inactive Modules:
+  1) gsl-2.3-gcc-7.1.0-oqydlph
+
+
+Activating Modules:
+  1) gsl-2.3-gcc-7.1.0-oqydlph
+
+1th
+total time used FOR non-thread  is 32.701992
+ threads total time used is 23.929000
+2th
+threads total time used is 24.634868
+total time used FOR non-thread  is 32.793512
+ 3th
+total time used FOR non-thread  is 32.736988
+ threads total time used is 27.492025
+4th
+threads total time used is 25.670034
+total time used FOR non-thread  is 32.212408
+ 5th
+threads total time used is 25.169736
+total time used FOR non-thread  is 31.310115
+ 6th
+threads total time used is 23.392894
+total time used FOR non-thread  is 31.253991
+ 7th
+threads total time used is 24.892408
+total time used FOR non-thread  is 32.471779
+ 8th
+total time used FOR non-thread  is 32.851342
+ threads total time used is 26.046384
+9th
+total time used FOR non-thread  is 61.507110
+ threads total time used is 42.906428
+10th
+total time used FOR non-thread  is 31.997077
+ threads total time used is 31.730697
+11th
+total time used FOR non-thread  is 33.476021
+ threads total time used is 24.680255
+12th
+total time used FOR non-thread  is 31.613794
+ threads total time used is 24.752826
+13th
+total time used FOR non-thread  is 31.872732
+ threads total time used is 25.446208
+14th
+total time used FOR non-thread  is 32.917292
+ threads total time used is 25.907169
+15th
+total time used FOR non-thread  is 32.932693
+ threads total time used is 24.573265
+16th
+total time used FOR non-thread  is 31.252073
+ threads total time used is 24.256480
+17th
+threads total time used is 25.377849
+total time used FOR non-thread  is 33.796071
+ 18th
+threads total time used is 25.134325
+total time used FOR non-thread  is 31.556403
+ 19th
+threads total time used is 24.425147
+total time used FOR non-thread  is 33.391880
+ 20th
+total time used FOR non-thread  is 32.279360
+ threads total time used is 25.532617
+21th
+total time used FOR non-thread  is 32.256056
+ threads total time used is 24.678116
+22th
+total time used FOR non-thread  is 33.115797
+ threads total time used is 26.241852
+23th
+threads total time used is 26.486780
+total time used FOR non-thread  is 32.909913
+ 24th
+total time used FOR non-thread  is 32.078436
+ threads total time used is 25.687742
+25th
+threads total time used is 25.433899
+total time used FOR non-thread  is 39.426274
+ 26th
+threads total time used is 69.704289
+total time used FOR non-thread  is 30.817964
+ 27th
+threads total time used is 24.095421
+total time used FOR non-thread  is 30.691208
+ 28th
+total time used FOR non-thread  is 33.199281
+ threads total time used is 24.683488
+29th
+threads total time used is 24.193451
+total time used FOR non-thread  is 32.351137
+ 30th
+total time used FOR non-thread  is 33.672273
+ Wheeler Portable Batch System Epilogue
